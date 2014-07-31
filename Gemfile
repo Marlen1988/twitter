@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 ruby '2.1.1'
 #ruby-gemset=railstutorial_rails_4_0
 gem 'faker', '1.1.2'
-gem 'rails', '4.1.0'
 gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.9'
 
